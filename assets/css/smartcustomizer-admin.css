@@ -1,0 +1,52 @@
+@font-face {
+	font-family: Helvetica;
+	src: url('../fonts/helvetica.ttf');
+}
+
+.smartcustomizer-admin-page{
+display:bock;
+font-family: Helvetica;
+color:#222;
+margin:64px 40px 0 40px;
+-webkit-font-smoothing: antialiased;
+border-left:6px solid #222;
+padding:0 0 34px 38px;
+}
+
+.smartcustomizer-admin-page .logo{
+width:237px;
+height:47px;
+display:inline-block;
+background:url('../images/smartcustomizer-logo.svg') top left no-repeat;
+background-size: contain;
+margin: 34px 0 50px 0;
+}
+	
+.smartcustomizer-admin-page h1{
+font-size:24px;
+margin:0;
+}
+
+.smartcustomizer-admin-page .description{
+font-size:14px;
+margin:22px 0 36px 0;
+}
+
+.smartcustomizer-admin-page .btn{
+display:inline-block;
+height:50px;
+line-height:50px;
+font-size:16px;
+color:#fff;
+background-color:#222;
+padding:0 20px;
+border-radius: 25px;
+text-decoration:none;
+}
+	
+hr.smartcustomizer-admin-page-sep{
+border:0;
+height:0;
+border-bottom:1px solid #231f20;
+margin: 70px 40px 0 20px;
+}
